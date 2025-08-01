@@ -59,4 +59,4 @@ A Flutter-based chat application that connects customers with vendors, featuring
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/arunlatha231701/chatapp.git
+   git clone https://github.com/arunlatha231701/qurichat.git
